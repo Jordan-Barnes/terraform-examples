@@ -1,0 +1,9 @@
+*.tfvars
+*.log
+*.hcl
+*.info
+*.tfstate
+.terraform/*
+.terraform
+*.t3plan
+*.backup
