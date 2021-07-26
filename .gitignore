@@ -7,3 +7,6 @@
 .terraform
 *.t3plan
 *.backup
+*.tfplan
+.gitignore
+.aws
